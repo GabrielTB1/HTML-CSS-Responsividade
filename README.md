@@ -21,11 +21,11 @@
 
 ## Etapas do projeto
 
-:warning: Construindo um site com HTML e CSS
+:heavy_check_mark: Construindo um site com HTML e CSS
 
-:warning: Estilizando com CSS
+:heavy_check_mark: Estilizando com CSS
 
-:warning: Conhecendo a abordagem mobile-first
+:heavy_check_mark: Conhecendo a abordagem mobile-first
 
 :warning: Utilizando media queries para construção de layouts responsivos
 
