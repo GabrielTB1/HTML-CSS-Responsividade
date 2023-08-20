@@ -44,6 +44,10 @@
     padding: 1em;
 }
 
+.descricao__imagem{
+    width: 50%;
+}
+
 .descricao__titulo{
     color: var(--laranja);
     font-weight: 700;
