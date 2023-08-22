@@ -1,7 +1,7 @@
 # HTML-CSS-Praticando
 <h1>Utilizando HTML e CSS de forma responsiva</h1> 
 
-> Status do Projeto: ⚠️: (Em andamento)
+> Status do Projeto: ✔️: (Concluído)
 
 ### Tópicos 
 
@@ -27,11 +27,11 @@
 
 :heavy_check_mark: Conhecendo a abordagem mobile-first
 
-:warning: Utilizando media queries para construção de layouts responsivos
+:heavy_check_mark: Utilizando media queries para construção de layouts responsivos
 
-:warning: Realizando o deploy do site através do Github Pages
+:heavy_check_mark: Realizando o deploy do site através do Github Pages
 
-:warning: Deploy final da aplicação
+:heavy_check_mark: Deploy final da aplicação
 
 ## Pré-requisitos
 
